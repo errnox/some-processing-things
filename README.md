@@ -66,7 +66,7 @@ Get close to your device and stare at **opart.png** for a while.
 
 ![resizable gif](res/resizable.gif)
 
-**gogueblock/**
+**rogueblock/**
 
 ![rogueblock gif](res/rogueblock.gif)
 
